@@ -61,7 +61,7 @@ v
 
 Befehl:
 
-`tdbp lexikon.pl grammatik.pl "ich bin ein Beispielsatz" baeume.txt`
+`tdbp grammatik.pl lexikon.pl "ich bin ein Beispielsatz" baeume.txt`
 
 Ausgabe in Datei baeume.txt:
 
